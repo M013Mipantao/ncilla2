@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "36690422779",
+    "firebase_url": "https://ncilla.firebaseio.com",
+    "project_id": "ncilla",
+    "storage_bucket": "ncilla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36690422779:android:f3bf21425eb9433d9c795e",
+        "android_client_info": {
+          "package_name": "com.aionos.ncilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36690422779-tacav0qmpian8ngs45mdv4s1vg1nqpao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwqgscyGn7XZ3-e8svJH1590ri5b7EM2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36690422779-tacav0qmpian8ngs45mdv4s1vg1nqpao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
